@@ -1,0 +1,3 @@
+# sublimePlugin
+sublimePlugin
+SCSS的整个目录 就是sublime所需要的SCSS插件
